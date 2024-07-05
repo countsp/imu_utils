@@ -1,5 +1,7 @@
 [ref](https://blog.csdn.net/weixin_42141088/article/details/118000544)
 
+[ref2](https://zhuanlan.zhihu.com/p/694439388)
+
 # imu_utils
 
 A ROS package tool to analyze the IMU performance. C++ version of Allan Variance Tool. 
