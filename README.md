@@ -282,3 +282,7 @@ shutting down processing monitor...
 ... shutting down processing monitor complete
 done
 ```
+
+终端接收到数据是没有反应的，结束时才会显示标定结果。同时在data文件夹下会生成一堆文件我们需要的是第一个。
+
+![image](https://github.com/countsp/imu_utils/assets/102967883/e5881e5a-4738-4325-ad9f-4c152a55b74e)
