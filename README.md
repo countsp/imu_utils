@@ -286,3 +286,13 @@ done
 终端接收到数据是没有反应的，结束时才会显示标定结果。同时在data文件夹下会生成一堆文件我们需要的是第一个。
 
 ![image](https://github.com/countsp/imu_utils/assets/102967883/e5881e5a-4738-4325-ad9f-4c152a55b74e)
+
+**修改IMU内参**
+
+![image](https://github.com/countsp/imu_utils/assets/102967883/0c4a7af9-d9db-4c84-9e2f-42fcdc470842)
+
+在上面IMU Settings的地方就是修改内参的地方，打开第三步标定好的IMU内参文件A3_imu_param.yaml找到以下参数：
+
+![image](https://github.com/countsp/imu_utils/assets/102967883/773999c2-eacb-4eac-bbf5-25d2ce8515c7)
+
+
