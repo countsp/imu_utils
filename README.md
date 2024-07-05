@@ -51,9 +51,8 @@ sudo apt-get install libdw-dev
 
 * download required [`code_utils`](https://github.com/gaowenliang/code_utils "code_utils");
 
-* put the ROS package `imu_utils` and `code_utils` into your workspace, usually named `catkin_ws`;
+* 分别build `imu_utils` 和 `code_utils`
 
-* cd to your workspace, build with `catkin_make`;
 
 
 ### to run
